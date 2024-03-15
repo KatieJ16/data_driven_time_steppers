@@ -1,5 +1,4 @@
-#example for running emperial HiTSs
-
+#example for running ensemble HiTSs
 
 #import needed libraries
 import os
